@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "firstname": "zachary",
+      "lastname": "moseti",
+      "email": "zachy@gmail.com",
+      "age": "19",
+      "companyId": 1
+    },
+    {
+      "id": "2",
+      "firstname": "rodgers",
+      "lastname": "ndocha",
+      "email": "makori@gmail.com",
+      "age": "20",
+      "companyId": 2
+    },
+    {
+      "id": 3,
+      "firstname": "monica",
+      "lastname": "waweru",
+      "email": "monica@gmail.com",
+      "age": "20",
+      "companyId": 3
+    }
+]
