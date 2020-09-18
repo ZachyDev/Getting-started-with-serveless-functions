@@ -1,0 +1,20 @@
+{
+  "name": "Getting-started-with-serveless-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachyDev/Getting-started-with-serveless-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachyDev/Getting-started-with-serveless-functions/issues"
+  },
+  "homepage": "https://github.com/ZachyDev/Getting-started-with-serveless-functions#readme"
+}
